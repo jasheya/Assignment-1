@@ -56,3 +56,26 @@ p{
     border-radius: 3px;
     color: #ed5354;
 }
+#first-icon-box{
+    background-color: rgb(228, 236, 247);
+    padding: 30px;
+    margin: 30px;
+}
+#second-icon-box{
+    background-color: rgb(252, 227, 231);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+}
+#third-icon-box{
+    background-color: rgb(241, 194, 177);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+}
+.icon-box-flex{
+    display: flex;
+    margin-left: 10%;
+    margin-right:10% ;
+    border-radius: 5px;
+}
