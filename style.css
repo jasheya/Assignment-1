@@ -89,7 +89,26 @@ p{
 }
 .half-width-image{
     width: 500px;
-    height: 600px;
     border-radius: 5px;
     box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.836);
+}
+#email-box{
+    width: 50%;
+    background-color: #ffdbdb;
+    padding:45px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#sub-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ed5354, #ff6667);
+    padding: 2px;
+    border-radius: 2px;
+    color: white;
+    font-weight: 400;
+}
+footer{
+    background-color: black;
+    color: #ed5354;
+    margin: 0;
 }
