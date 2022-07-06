@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: lato, serif;
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+    div{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    color: white;
+    display: grid;
+    place-items: center;
+    place-content: center;
+    background: linear-gradient(to bottom,rgba(255, 255, 255, 0),rgba(0, 0, 5, 0.986)),
+                url('images/donation12.png') no-repeat center center / cover;
+    
+
+}
+.button-style{
+    text-decoration: none;
+    background-image: linear-gradient(#ed5354, #ff6667);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
