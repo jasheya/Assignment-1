@@ -79,3 +79,17 @@ p{
     margin-right:10% ;
     border-radius: 5px;
 }
+.half-width{
+    width: 50%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+#display-flexiblity{
+    display: flex;
+}
+.half-width-image{
+    width: 500px;
+    height: 600px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.836);
+}
